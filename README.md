@@ -1,16 +1,16 @@
-## Hi there 👋
 
-<!--
-**SeriousDots/SeriousDots** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi there, I'm Janine! 👋
 
-Here are some ideas to get you started:
+## 🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm an **AWS Certified DevOps Engineer**, **Graphic Designer** and **Web & Software Developer** based in **Warsaw, Poland**. Passionate about automation, cloud technologies, and crafting visually stunning and functional digital experiences.
+
+## 💻 Tech Stack
+
+-   **Cloud & DevOps**: AWS, Docker, Kubernetes, Terraform, CI/CD (GitHub Actions, Jenkins)
+-   **Programming**: Python, JavaScript, TypeScript, PHP
+-   **Frameworks & Libraries**: Node.js, React, Laravel
+-   **Databases**: MySQL, PostgreSQL, MongoDB
+-   **Design & UX**: Adobe Creative Suite, Figma
+
+Feel free to reach out! 🚀
