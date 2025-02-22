@@ -8,9 +8,9 @@ I'm an **AWS Certified DevOps Engineer**, **Graphic Designer** and **Web & Softw
 ## 💻 Tech Stack
 
 -   **Cloud & DevOps**: AWS, Docker, Kubernetes, Terraform, CI/CD (GitHub Actions, Jenkins)
--   **Programming**: Python, JavaScript, TypeScript, PHP
--   **Frameworks & Libraries**: Node.js, React, Laravel
+-   **Programming**: Python, JavaScript, TypeScript, PHP, C#, Java, Swift
+-   **Frameworks & Libraries**: Node.js, React, Laravel, NativeScript, Expo
 -   **Databases**: MySQL, PostgreSQL, MongoDB
--   **Design & UX**: Adobe Creative Suite, Figma
+-   **Design & UX**: Adobe Creative Suite, Figma, ProCreate
 
 Feel free to reach out! 🚀
