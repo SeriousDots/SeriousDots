@@ -2,7 +2,7 @@
 <p align="center">
 <em>Automation addict, cloud adventurer and builder of delightfully weird digital things.</em><br><br>
 <a href="https://steamcommunity.com/id/seriousdots/"><img src="https://img.shields.io/badge/STEAM-171d25?style=for-the-badge&logo=Steam&logoColor=ffffff" alt="STEAM"/></a>
-<a href="https://instagram.com/seriousdots"><img src="https://img.shields.io/badge/TELEGRAM-0088cc?style=for-the-badge&logo=telegram&logoColor=ffffff" alt="TELEGRAM"/></a>
+<a href="https://t.me/seriousdots"><img src="https://img.shields.io/badge/TELEGRAM-0088cc?style=for-the-badge&logo=telegram&logoColor=ffffff" alt="TELEGRAM"/></a>
 <a href="https://discord.com/users/119868316289335298"><img src="https://img.shields.io/badge/DISCORD-5865f2?style=for-the-badge&logo=discord&logoColor=ffffff" alt="DISCORD"/></a>
 <a href="https://twitch.tv/seriousdots"><img src="https://img.shields.io/badge/TWITCH-a970ff?style=for-the-badge&logo=twitch&logoColor=ffffff" alt="TWITCH"/></a>
 </p>
